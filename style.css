@@ -5,10 +5,9 @@ body{
   margin: 5% 10%
 }
 
-.myname {
-  text-align: center;
-  font-family: Helvetica
-  
+.myname-header {
+  text-align: center
+
 }
 
 .exp-header {
