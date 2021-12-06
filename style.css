@@ -1,16 +1,30 @@
-body{
+  
+body {
   background-color: #a9a9a9;
   text-align: left;
   font-family: Helvetica, sans-serif;
   margin: 5% 10%
 }
 
-.myname-header {
-  text-align: center
-
+.mynameheader {
+  text-align: center;
+  color: white
+ 
 }
 
-.exp-header {
+.photo {
+  text-align: center    
+}
+
+.infoline {
+  text-align: center
+}
+
+.profstatement {
+  text-align: center
+}
+
+.profexp {
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #fffff0;
@@ -18,7 +32,7 @@ body{
   background-color: rgba(0,0,0, 0.2)
 }
 
-.jobs-list {
-  text-align: left;
+.jobslist {
+  text-align: left
   
 }
