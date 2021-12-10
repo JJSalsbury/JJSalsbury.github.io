@@ -11,17 +11,18 @@ body {
  
 }
 
-.photo {
-  text-align: center
-
-}
-
 .infoline {
   text-align: center
 }
 
 .profstatement {
-  text-align: center
+  margin: 5%;
+  text-align: center;
+  color: white;
+  font-family: Tahoma;
+  font-style: italic;
+  font-weight: bold
+  
 }
 
 .profexp {
@@ -34,5 +35,15 @@ body {
 
 .jobslist {
   text-align: left
+  
+}
+
+img {
+  float left;
+  border-radius: 60%;
+  border: 1px solid #ddd;
+  width: 150px;
+  padding: 5px
+  
   
 }
